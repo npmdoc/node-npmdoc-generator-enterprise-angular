@@ -45,7 +45,7 @@
 <tspan x="10" y="682">│ │ │   │ │ └── array-find-index@1.0.2 </tspan>
 <tspan x="10" y="698">│ │ │   │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="714">│ │ │   ├── map-obj@1.0.1 </tspan>
-<tspan x="10" y="730">│ │ │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="730">│ │ │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="746">│ │ │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="762">│ │ │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="778">│ │ │   │ │ └── builtin-modules@1.1.1 </tspan>
@@ -68,8 +68,8 @@
 <tspan x="10" y="1050">│ │ │   │ ├── indent-string@2.1.0 </tspan>
 <tspan x="10" y="1066">│ │ │   │ └── strip-indent@1.0.1 </tspan>
 <tspan x="10" y="1082">│ │ │   └── trim-newlines@1.0.0 </tspan>
-<tspan x="10" y="1098">│ │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1114">│ │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1098">│ │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1114">│ │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="1130">│ │ ├── detect-conflict@1.0.1 </tspan>
 <tspan x="10" y="1146">│ │ ├── diff@1.4.0 </tspan>
 <tspan x="10" y="1162">│ │ ├─┬ download@3.3.0 </tspan>
@@ -116,7 +116,7 @@
 <tspan x="10" y="1818">│ │ │ ├─┬ decompress-unzip@2.1.2 </tspan>
 <tspan x="10" y="1834">│ │ │ │ ├── is-zip@1.0.0 </tspan>
 <tspan x="10" y="1850">│ │ │ │ ├── strip-dirs@1.1.1 </tspan>
-<tspan x="10" y="1866">│ │ │ │ └─┬ yauzl@2.7.0 </tspan>
+<tspan x="10" y="1866">│ │ │ │ └─┬ yauzl@2.8.0 </tspan>
 <tspan x="10" y="1882">│ │ │ │   ├── buffer-crc32@0.2.13 </tspan>
 <tspan x="10" y="1898">│ │ │ │   └─┬ fd-slicer@1.0.1 </tspan>
 <tspan x="10" y="1914">│ │ │ │     └── pend@1.2.0 </tspan>
@@ -234,7 +234,7 @@
 <tspan x="10" y="3706">│ │ │   └─┬ wrap-fn@0.1.5 </tspan>
 <tspan x="10" y="3722">│ │ │     └── co@3.1.0 </tspan>
 <tspan x="10" y="3738">│ │ ├─┬ file-utils@0.2.2 </tspan>
-<tspan x="10" y="3754">│ │ │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="3754">│ │ │ ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="3770">│ │ │ ├── isbinaryfile@2.0.4 </tspan>
 <tspan x="10" y="3786">│ │ │ └─┬ minimatch@2.0.10 </tspan>
 <tspan x="10" y="3802">│ │ │   └─┬ brace-expansion@1.1.7 </tspan>
