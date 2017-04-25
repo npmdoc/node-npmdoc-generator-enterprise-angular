@@ -1,4 +1,7 @@
-# api documentation for  [generator-enterprise-angular (v0.0.6)](https://github.com/mnadeem/generator-enterprise-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-enterprise-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-enterprise-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-enterprise-angular.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-enterprise-angular)
+# npmdoc-generator-enterprise-angular
+
+#### basic api documentation for  [generator-enterprise-angular (v0.0.6)](https://github.com/mnadeem/generator-enterprise-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-enterprise-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-enterprise-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-enterprise-angular.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-enterprise-angular)
+
 #### Yeoman Generator for Enterprise Angular projects.
 
 [![NPM](https://nodei.co/npm/generator-enterprise-angular.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-enterprise-angular)
@@ -82,7 +85,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.0.6"
+    "version": "0.0.6",
+    "bin": {}
 }
 ```
 
